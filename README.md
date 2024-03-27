@@ -1,6 +1,7 @@
-# nosql-challenge
+# What We did in this project:
 
-Part 1: Database and Jupyter Notebook Set Up
+
+#Part 1: Database and Jupyter Notebook Set Up
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
 Import the data provided in the establishments.json file from your Terminal. Name the database uk_food and the collection establishments. Copy the text you used to import your data from your Terminal to a markdown cell in your notebook.
